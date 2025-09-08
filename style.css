@@ -1,5 +1,8 @@
 .navigator {
   text-align: center;
-  font-sixe: 25px;
-  backgroun-color: gray;
+  background-color: lightgray;
+  width: 300px;
+  border-radius: 20px;
+  margin: 0 auto;
+  font-size: 25px;
 }
